@@ -1187,7 +1187,8 @@ Header
 
 /*-----------------Site Navigation-----------------*/
 #site-navigation {
-	float: right;
+	float: left;
+    margin-left: 50px;
 }
 
 #site-navigation .menu-toggle {
@@ -4328,3 +4329,4 @@ WooCommerce
 .slider-arrow .swiper-button-next:after {
 	content: none;
 }
+
